@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<img src="https://media.discordapp.net/attachments/1221767281969987616/1222825069651300442/banner.png?ex=66179f97&is=66052a97&hm=0dce236cd0a2e4fc0618ce1340771ae425ddb115676a7cf0c9a120f337661806&=&format=webp&quality=lossless&width=960&height=384" alt="Hello world">
+![image2_5_0-Photoroom-ai-brush-removebg-mvqfhklk](https://github.com/user-attachments/assets/1a6a7ec2-8c58-4fb6-a4aa-cc620d31fa9c)
+
 
 <h1 align="center">About me</h1>
 <p align="left">I'm Ray A Bot Developer for discord also A Web developer and Minecraft Developer Too 
