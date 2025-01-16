@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-![image2_5_0-Photoroom-ai-brush-removebg-mvqfhklk](https://github.com/user-attachments/assets/1a6a7ec2-8c58-4fb6-a4aa-cc620d31fa9c)
+![image](https://github.com/user-attachments/assets/39cbe2a0-d53d-4033-b783-a7a5f416cb2a)
+
 
 
 <h1 align="center">About me</h1>
